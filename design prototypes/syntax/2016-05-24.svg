@@ -15,7 +15,10 @@
    id="svg4822"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="2016-05-24.svg">
+   sodipodi:docname="2016-05-24.svg"
+   inkscape:export-filename="C:\Users\olli\Documents\regex-you-can-read\design prototypes\syntax\2016-05-24.png"
+   inkscape:export-xdpi="121"
+   inkscape:export-ydpi="121">
   <defs
      id="defs4824" />
   <sodipodi:namedview
@@ -26,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.60019314"
-     inkscape:cx="370.41745"
-     inkscape:cy="669.69782"
+     inkscape:cx="121.33096"
+     inkscape:cy="615.72103"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,6 +56,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000080;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4574"
+       width="846.39423"
+       height="669.78442"
+       x="-56.64843"
+       y="99.335648"
+       ry="4.37148" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5858"
