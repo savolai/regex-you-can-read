@@ -1,6 +1,6 @@
 # Regex You Can Read - teamwork repository
 
-This here is a private repository to bring together all the parties interested in working on the design and the implementation a new regex syntax and UI. 
+This here is a private repository to bring together all the parties interested in working on the design and the implementation of a new regex syntax and UI. 
 
 The basic ideas the work starts from are in the [medium blog post](https://medium.com/@savolai/regular-expressions-you-can-read-a-new-visual-syntax-526c3cf45df1#.sk2363nfq ) but prototyping and suggestions of all kinds are encouraged. The design is far from finalized at this point.
 
