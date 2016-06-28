@@ -1,0 +1,22 @@
+{
+  "name": "regex_ucr",
+  "version": "1.0.0",
+  "description": "A new way to experience working with regex",
+  "scripts": {
+    "start": "webpack-dev-server --port 3000",
+    "build": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:savolai/regex-you-can-read.git"
+  },
+  "keywords": [
+    "javascript",
+    "regex"
+  ],
+  "author": "TODO",
+  "license": "TODO",
+  "dependencies": {
+    "npm-dev-boilerplate": "^1.0.4"
+  }
+}

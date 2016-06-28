@@ -1,0 +1,27 @@
+.toolbar {
+    display: block;
+    width: 100%;
+    padding: 10px 0;
+    color: black;
+    background: #ccc;
+    font-family: Arial, Helvetica, sans-serif;
+
+    ul {
+       float: right;
+       margin: 0 20px 0 0;
+    }
+
+    li {
+        display: inline;
+        margin-left: 10px;
+        cursor: pointer;
+    }
+}
+
+.debug {
+    border: 0;
+    cursor: pointer;
+    background: transparent;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}

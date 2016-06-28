@@ -1,0 +1,4 @@
+.visualSyntax {
+    composes: flexChild from '../_styles/common.css';
+    background: #ddd;
+}

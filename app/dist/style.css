@@ -1,0 +1,65 @@
+.common__flexChild___6V-nZ{
+    -webkit-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}.Editor__editor___2TB_y{
+    box-sizing: border-box;
+    margin: 0;
+    background: tomato;
+}.VisualSyntax__visualSyntax___2eyCx {
+    background: #ddd;
+}.Toolbar__toolbar___3Y3Lp {
+    display: block;
+    width: 100%;
+    padding: 10px 0;
+    color: black;
+    background: #ccc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Toolbar__toolbar___3Y3Lp ul {
+    float: right;
+    margin: 0 20px 0 0;
+}
+
+.Toolbar__toolbar___3Y3Lp li {
+    display: inline;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.Toolbar__debug___3DiIH {
+    border: 0;
+    cursor: pointer;
+    background: transparent;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+html > div, body > div {
+    height: 100%;
+}
+
+.App__app___2oExz,
+.App__container___1ZDeV {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    height: 100%;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MiLCJzb3VyY2VSb290IjoiIn0=*/

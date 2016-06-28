@@ -1,0 +1,6 @@
+.editor{
+    composes: flexChild from '../_styles/common.css';
+    box-sizing: border-box;
+    margin: 0;
+    background: tomato;
+}
