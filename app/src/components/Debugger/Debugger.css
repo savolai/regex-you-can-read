@@ -1,0 +1,19 @@
+.debugger{
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    z-index: 999;
+    right: -50%;
+    transition: 0.3s;
+    display: block;
+    background: darkgray;
+
+    p{
+        margin: 20px 0 0 20px;
+        font-style: italic;
+    }
+
+    &.active{
+        right: 0;
+    }
+}

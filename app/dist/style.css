@@ -11,9 +11,47 @@
 }.Editor__editor___2TB_y{
     box-sizing: border-box;
     margin: 0;
-    background: tomato;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+.Editor__editor___2TB_y input {
+    border: 0;
+    width: 80%;
+    font-size: calc(30px + 30 * ((100vw - 420px) / 860));
+    margin-left: 20px;
+}
+.Editor__editor___2TB_y input:focus{
+    outline: none;
+}
+@media screen and (min-width: 1280px){
+    .Editor__editor___2TB_y input{
+        font-size: 60px;
+    }
+}
+@media screen and (max-width: 420px){
+    .Editor__editor___2TB_y input{
+        font-size: 30px;
+    }
 }.VisualSyntax__visualSyntax___2eyCx {
     background: #ddd;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+.VisualSyntax__visualSyntax___2eyCx p {
+    margin-left: 20px;
+    font-size: calc(30px + 30 * ((100vw - 420px) / 860));
+}
+@media screen and (min-width: 1280px) {
+    .VisualSyntax__visualSyntax___2eyCx p {
+        font-size: 60px;
+    }
+}
+@media screen and (max-width: 420px) {
+    .VisualSyntax__visualSyntax___2eyCx p {
+        font-size: 30px;
+    }
 }.Toolbar__toolbar___3Y3Lp {
     display: block;
     width: 100%;
@@ -40,6 +78,22 @@
     background: transparent;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
+}.Debugger__debugger___NQ_VX{
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    z-index: 999;
+    right: -50%;
+    transition: 0.3s;
+    display: block;
+    background: darkgray;
+}
+.Debugger__debugger___NQ_VX p{
+    margin: 20px 0 0 20px;
+    font-style: italic;
+}
+.Debugger__debugger___NQ_VX.Debugger__active___qdv_X{
+    right: 0;
 }html,
 body {
     margin: 0;

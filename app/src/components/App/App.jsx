@@ -1,7 +1,8 @@
 import React from 'react';
 import { Editor } from '../../containers/Editor';
 import { VisualSyntax } from '../../containers/VisualSyntax';
-import { Toolbar } from '../Toolbar/Toolbar.jsx';
+import { Toolbar } from '../../containers/Toolbar';
+import { Debugger } from '../../containers/Debugger';
 
 import styles from './App.css';
 
@@ -10,10 +11,12 @@ export class App extends React.Component {
         return (
             <div className={styles.app}>
                 <Toolbar />
-                <div className={styles.container}>
+                <Debugger />
+
+                <section className={styles.container}>
                     <Editor />
                     <VisualSyntax />
-                </div>
+                </section>
             </div>
         );
     }

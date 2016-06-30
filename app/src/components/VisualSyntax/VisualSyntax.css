@@ -1,4 +1,10 @@
 .visualSyntax {
     composes: flexChild from '../_styles/common.css';
     background: #ddd;
+    display: flex;
+
+    p {
+        margin-left: 20px;
+        font-size: responsive 30px 60px;
+    }
 }
