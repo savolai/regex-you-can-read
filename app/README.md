@@ -6,3 +6,9 @@ On OS X, brew install node
 
 webpack
 npm install webpack -g
+
+run webpack in app dir?
+
+$ webpack
+
+Error: Cannot find module 'autoprefixer'
