@@ -14,6 +14,11 @@ webpack
 $ npm install webpack -g
 ```
 
+get dependencies
+```
+$ npm install
+```
+
 run webpack in app dir?
 
 ```
