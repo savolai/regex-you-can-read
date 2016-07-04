@@ -15,9 +15,8 @@
     "regex"
   ],
   "author": "TODO",
-  "license": "TODO",
+  "license": "UNLICENSED",
   "dependencies": {
-    "dependencies": {
     "autoprefixer": "^6.3.6",
     "babel-core": "^6.4.0",
     "babel-loader": "^6.2.1",
@@ -51,6 +50,5 @@
     "webpack-dev-middleware": "^1.6.1",
     "webpack-dev-server": "^1.14.1",
     "webpack-hot-middleware": "^2.6.0"
-  }
   }
 }
