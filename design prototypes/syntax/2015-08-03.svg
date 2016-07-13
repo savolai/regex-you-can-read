@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1646366"
-     inkscape:cx="286.85545"
+     inkscape:cx="246.15887"
      inkscape:cy="324.30996"
      inkscape:document-units="px"
-     inkscape:current-layer="g4756"
+     inkscape:current-layer="g4760"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="751"
@@ -2002,18 +2002,20 @@
        id="g4760"
        transform="translate(-2.6133044,41.159544)">
       <g
-         inkscape:export-ydpi="121.45"
-         inkscape:export-xdpi="121.45"
+         inkscape:export-ydpi="316.02286"
+         inkscape:export-xdpi="316.02286"
          transform="matrix(117.02481,0,0,0.59932234,-34969.051,439.18964)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
          id="g4756">
         <rect
            y="411.16971"
-           x="299.48929"
+           x="299.45773"
            height="68.571434"
-           width="2.8571365"
+           width="2.9202988"
            id="rect4758"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-xdpi="317.63"
+           inkscape:export-ydpi="317.63" />
       </g>
       <g
          id="g4653"
