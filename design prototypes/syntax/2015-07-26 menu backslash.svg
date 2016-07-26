@@ -943,7 +943,7 @@
            x="252.94073"
            id="tspan5850"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Al Nile PUA';-inkscape-font-specification:'.Al Nile PUA'">Add word boundary</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Al Nile PUA';-inkscape-font-specification:'.Al Nile PUA'">Add literal backslash \</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text5852"
@@ -955,7 +955,7 @@
            x="252.94073"
            id="tspan5854"
            sodipodi:role="line"
-           style="font-size:6.25px">Typically \b</tspan></text>
+           style="font-size:6.25px">Text syntax: \\</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text4291"
@@ -1036,7 +1036,7 @@
            x="252.94073"
            id="tspan4324"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Al Nile PUA';-inkscape-font-specification:'.Al Nile PUA'">Add  .</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Al Nile PUA';-inkscape-font-specification:'.Al Nile PUA'">Add word character match .</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text4326"
@@ -1048,7 +1048,95 @@
            x="252.94073"
            sodipodi:role="line"
            style="font-size:6.25px"
-           id="tspan5054">Typically </tspan></text>
+           id="tspan5054">Typically \w </tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5082"
+         d="m 250.46728,857.89965 123.55166,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="252.94073"
+         y="867.03339"
+         id="text5084"
+         sodipodi:linespacing="125%"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Al Nile PUA';-inkscape-font-specification:'.Al Nile PUA'"
+           sodipodi:role="line"
+           id="tspan5086"
+           x="252.94073"
+           y="867.03339">Add word boundary</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="252.94073"
+         y="875.93341"
+         id="text5088"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:6.25px"
+           sodipodi:role="line"
+           id="tspan5090"
+           x="252.94073"
+           y="875.93341">Typically \b</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="253.61436"
+         y="780.25085"
+         id="text5092"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5094"
+           x="253.61436"
+           y="780.25085"></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="252.94073"
+         y="843.83344"
+         id="text7857"
+         sodipodi:linespacing="125%"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Al Nile PUA';-inkscape-font-specification:'.Al Nile PUA'"
+           sodipodi:role="line"
+           id="tspan7859"
+           x="252.94073"
+           y="843.83344">Add non-word character match .</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="252.94073"
+         y="852.73346"
+         id="text7861"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan7863"
+           style="font-size:6.25px"
+           sodipodi:role="line"
+           x="252.94073"
+           y="852.73346">Typically \w </tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text7865"
+         y="891.03339"
+         x="252.94073"
+         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="891.03339"
+           x="252.94073"
+           id="tspan7867"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Al Nile PUA';-inkscape-font-specification:'.Al Nile PUA'">Add decimal number</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text7869"
+         y="899.93341"
+         x="252.94073"
+         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="899.93341"
+           x="252.94073"
+           id="tspan7871"
+           sodipodi:role="line"
+           style="font-size:6.25px">Typically \d</tspan></text>
     </g>
   </g>
 </svg>
