@@ -63,7 +63,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0153513"
-     inkscape:cx="135.47309"
+     inkscape:cx="178.54554"
      inkscape:cy="102.35125"
      inkscape:document-units="px"
      inkscape:current-layer="g4760"
@@ -86,7 +86,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -887,9 +887,7 @@
            height="11.289124"
            preserveAspectRatio="none"
            style="image-rendering:optimizeSpeed"
-           xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAcCAYAAACgXdXMAAAABHNCSVQICAgIfAhkiAAAABhJREFU
-CJlj0NPT+8TEwMDAMLCEgoLCbQDcPwLuDT+KEQAAAABJRU5ErkJggg==
-"
+           xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAcCAYAAACgXdXMAAAABHNCSVQICAgIfAhkiAAAABhJREFU CJlj0NPT+8TEwMDAMLCEgoLCbQDcPwLuDT+KEQAAAABJRU5ErkJggg== "
            id="image5701"
            x="255.84053"
            y="741.30115" />
@@ -1092,6 +1090,18 @@ CJlj0NPT+8TEwMDAMLCEgoLCbQDcPwLuDT+KEQAAAABJRU5ErkJggg==
            id="tspan5854"
            sodipodi:role="line"
            style="font-size:6.25px">Typically \b</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4291"
+         y="743.1463"
+         x="327.62964"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         xml:space="preserve"><tspan
+           style="font-size:5px;fill:#797979;fill-opacity:1;"
+           y="743.1463"
+           x="327.62964"
+           id="tspan4293"
+           sodipodi:role="line">press esc to close</tspan></text>
     </g>
   </g>
 </svg>
