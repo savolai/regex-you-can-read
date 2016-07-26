@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4869117"
-     inkscape:cx="110.79618"
-     inkscape:cy="83.837078"
+     inkscape:zoom="3.5170243"
+     inkscape:cx="114.81489"
+     inkscape:cy="40.741644"
      inkscape:document-units="px"
-     inkscape:current-layer="g4760"
+     inkscape:current-layer="g8092"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="751"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -772,34 +772,6 @@
              x="-428.30698"
              y="672.31262"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3">(</tspan></text>
-        <g
-           id="g5167"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.25333336;stroke:none"
-           transform="matrix(44.8615,0,0,0.59932234,-13355.526,525.91064)"
-           inkscape:export-xdpi="121.45"
-           inkscape:export-ydpi="121.45">
-          <rect
-             style="opacity:0.75899999;fill:#999999;fill-opacity:0.25333336;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="rect5169"
-             width="2.8571365"
-             height="68.571434"
-             x="299.48929"
-             y="454.55197" />
-        </g>
-        <g
-           id="g5171"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.25333336;stroke:none"
-           transform="matrix(68.300966,0,0,0.59813137,-20236.205,526.62114)"
-           inkscape:export-xdpi="121.45"
-           inkscape:export-ydpi="121.45">
-          <rect
-             style="opacity:0.75899999;fill:#999999;fill-opacity:0.25333336;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="rect5173"
-             width="2.8571365"
-             height="68.571434"
-             x="299.48929"
-             y="454.55197" />
-        </g>
         <g
            id="g4756"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
