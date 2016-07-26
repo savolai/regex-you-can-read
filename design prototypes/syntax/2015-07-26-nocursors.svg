@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="2015-07-26-nocursors.svg"
-   inkscape:export-filename="/Users/olli/Documents/regex-you-can-read/design prototypes/syntax/2015-07-26-nocursor.png"
+   inkscape:export-filename="/Users/olli/Documents/regex-you-can-read/design prototypes/syntax/2015-07-26.png"
    inkscape:export-xdpi="262.99686"
    inkscape:export-ydpi="262.99686">
   <defs
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4869117"
-     inkscape:cx="45.454093"
-     inkscape:cy="83.837078"
+     inkscape:zoom="2.32"
+     inkscape:cx="169.16081"
+     inkscape:cy="76.086761"
      inkscape:document-units="px"
      inkscape:current-layer="g8092"
      showgrid="false"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -115,6 +115,20 @@
              height="68.571434"
              x="299.45773"
              y="411.16971" />
+        </g>
+        <g
+           inkscape:export-ydpi="121.45"
+           inkscape:export-xdpi="121.45"
+           transform="matrix(68.300966,0,0,0.59813137,-20236.205,486.62114)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.25333336;stroke:none"
+           id="g5069">
+          <rect
+             y="521.42694"
+             x="299.48929"
+             height="68.571434"
+             width="2.8571365"
+             id="rect5071"
+             style="opacity:0.75899999;fill:#999999;fill-opacity:0.25333336;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
         <g
            inkscape:export-ydpi="121.45"
@@ -341,6 +355,26 @@
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45">
           <g
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none"
+             transform="matrix(0.36037311,0,0,0.79292942,283.89504,390.17124)"
+             id="g5047"
+             inkscape:export-xdpi="121.45"
+             inkscape:export-ydpi="121.45">
+            <path
+               id="path5049"
+               d="m 521.58956,463.19697 0,30.67991 4.27132,0 c 4.23957,0 7.65277,-1.94975 7.65277,-4.37155 l 0,-21.93681 c 0,-2.4218 -3.4132,-4.37155 -7.65277,-4.37155 l -4.27132,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;opacity:0.32743363;fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;opacity:0.32699998;fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect5051"
+               width="23.12645"
+               height="30.613853"
+               x="498.46927"
+               y="463.21759"
+               ry="0" />
+          </g>
+          <g
              id="g5039"
              transform="matrix(2.5590453,0,0,0.39535142,-417.64172,703.68884)"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#9bc3ff;fill-opacity:1;stroke:none"
@@ -368,26 +402,6 @@
                x="418.08423"
                y="777.37152"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000">ions</tspan></text>
-          <g
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none"
-             transform="matrix(0.36037311,0,0,0.79292942,283.89504,390.17124)"
-             id="g5047"
-             inkscape:export-xdpi="121.45"
-             inkscape:export-ydpi="121.45">
-            <path
-               id="path5049"
-               d="m 521.58956,463.19697 0,30.67991 4.27132,0 c 4.23957,0 7.65277,-1.94975 7.65277,-4.37155 l 0,-21.93681 c 0,-2.4218 -3.4132,-4.37155 -7.65277,-4.37155 l -4.27132,0 z"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;opacity:0.32743363;fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               inkscape:connector-curvature="0" />
-            <rect
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;opacity:0.32699998;fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               id="rect5051"
-               width="23.12645"
-               height="30.613853"
-               x="498.46927"
-               y="463.21759"
-               ry="0" />
-          </g>
           <text
              sodipodi:linespacing="125%"
              id="text5053"
@@ -442,20 +456,6 @@
              height="68.571434"
              width="2.8571365"
              id="rect5067"
-             style="opacity:0.75899999;fill:#999999;fill-opacity:0.25333336;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        </g>
-        <g
-           inkscape:export-ydpi="121.45"
-           inkscape:export-xdpi="121.45"
-           transform="matrix(68.300966,0,0,0.59813137,-20236.205,526.62114)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.25333336;stroke:none"
-           id="g5069">
-          <rect
-             y="454.55197"
-             x="299.48929"
-             height="68.571434"
-             width="2.8571365"
-             id="rect5071"
              style="opacity:0.75899999;fill:#999999;fill-opacity:0.25333336;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
         <g
@@ -595,26 +595,6 @@
           <g
              inkscape:export-ydpi="121.45"
              inkscape:export-xdpi="121.45"
-             id="g5115"
-             transform="matrix(0.36209727,0,0,0.73530974,186.47579,382.00635)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none">
-            <path
-               inkscape:connector-curvature="0"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;opacity:0.32743363;fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m 521.58956,463.19697 0,30.67991 4.27132,0 c 4.23957,0 7.65277,-1.94975 7.65277,-4.37155 l 0,-21.93681 c 0,-2.4218 -3.4132,-4.37155 -7.65277,-4.37155 l -4.27132,0 z"
-               id="path5117" />
-            <rect
-               ry="0"
-               y="463.21759"
-               x="498.46927"
-               height="30.613853"
-               width="23.12645"
-               id="rect5119"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;opacity:0.32699998;fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          </g>
-          <g
-             inkscape:export-ydpi="121.45"
-             inkscape:export-xdpi="121.45"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#9bc3ff;fill-opacity:1;stroke:none"
              transform="matrix(0.9212321,0,0,0.36558957,49.830413,672.65004)"
              id="g5121">
@@ -681,66 +661,17 @@
            inkscape:export-xdpi="121.45"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            id="g5139"
-           transform="translate(-68.07644,49.310278)">
-          <g
-             inkscape:export-ydpi="121.45"
-             inkscape:export-xdpi="121.45"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#9bc3ff;fill-opacity:1;stroke:none"
-             transform="matrix(2.5590453,0,0,0.39535142,-417.64172,703.68884)"
-             id="g5141">
-            <rect
-               rx="23.626196"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b9d5ff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               id="rect5143"
-               width="18.841806"
-               height="84.852814"
-               x="325.49802"
-               y="125.32067"
-               ry="12.093548" />
-          </g>
-          <text
-             sodipodi:linespacing="125%"
-             id="text5145"
-             y="777.37152"
-             x="418.08423"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000"
-               y="777.37152"
-               x="418.08423"
-               id="tspan5147"
-               sodipodi:role="line">ions</tspan></text>
-          <g
-             inkscape:export-ydpi="121.45"
-             inkscape:export-xdpi="121.45"
-             id="g5149"
-             transform="matrix(0.36037311,0,0,0.79292942,283.89504,390.17124)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none">
-            <path
-               inkscape:connector-curvature="0"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;opacity:0.32743363;fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m 521.58956,463.19697 0,30.67991 4.27132,0 c 4.23957,0 7.65277,-1.94975 7.65277,-4.37155 l 0,-21.93681 c 0,-2.4218 -3.4132,-4.37155 -7.65277,-4.37155 l -4.27132,0 z"
-               id="path5151" />
-            <rect
-               ry="0"
-               y="463.21759"
-               x="498.46927"
-               height="30.613853"
-               width="23.12645"
-               id="rect5153"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;opacity:0.32699998;fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          </g>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             x="465.23926"
-             y="775.80005"
-             id="text5155"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               id="tspan5157"
-               x="465.23926"
-               y="775.80005">?</tspan></text>
+           transform="translate(-14.895961,118.4449)">
+          <path
+             style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 86.429045,674.27393 352.054785,0"
+             id="path7519"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7521"
+             d="m 86.429045,622.27393 352.054785,0"
+             style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
         <text
            inkscape:export-ydpi="121.45"
@@ -775,7 +706,7 @@
         <g
            id="g4756"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-           transform="matrix(117.02481,0,0,0.59932234,-34967.203,448.42907)"
+           transform="matrix(117.02481,0,0,0.59932245,-34967.203,447.82858)"
            inkscape:export-xdpi="316.02286"
            inkscape:export-ydpi="316.02286">
           <rect
@@ -792,7 +723,7 @@
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#9bc3ff;fill-opacity:1;stroke:none"
-           transform="matrix(4.5009746,0,0,0.39535138,-1378.2711,649.61324)"
+           transform="matrix(4.5009746,0,0,0.39535145,-1378.2711,649.01279)"
            id="g4653">
           <rect
              rx="13.432759"
@@ -808,7 +739,7 @@
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none"
-           transform="matrix(1.5244369,0,0,0.39535145,-321.5442,649.61323)"
+           transform="matrix(1.5244369,0,0,0.39535152,-321.5442,649.01278)"
            id="g4657">
           <rect
              rx="12.09355"
@@ -823,7 +754,7 @@
         <g
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
-           transform="matrix(0.96223392,0,0,0.96223392,141.71143,377.12456)"
+           transform="matrix(0.96223392,0,0,0.96223409,141.71143,376.52405)"
            id="g4661"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none">
           <path
@@ -840,49 +771,49 @@
         <text
            sodipodi:linespacing="125%"
            id="text4671"
-           y="722.5473"
-           x="91.549088"
+           y="721.94684"
+           x="91.549095"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000"
-             y="722.5473"
-             x="91.549088"
+             y="721.94684"
+             x="91.549095"
              id="tspan4673"
              sodipodi:role="line">regular</tspan></text>
         <text
-           transform="scale(0.80691026,1.2392952)"
+           transform="scale(0.80691019,1.2392953)"
            sodipodi:linespacing="125%"
            id="text4675"
-           y="588.97388"
+           y="588.48932"
            x="93.232086"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3"
-             y="588.97388"
+             y="588.48932"
              x="93.232086"
              id="tspan4677"
              sodipodi:role="line">(</tspan></text>
         <text
-           transform="scale(-0.80691026,1.2392952)"
+           transform="scale(-0.80691019,1.2392953)"
            sodipodi:linespacing="125%"
            id="text4679"
-           y="588.97388"
+           y="588.48932"
            x="-265.31979"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3"
-             y="588.97388"
+             y="588.48932"
              x="-265.31979"
              id="tspan4681"
              sodipodi:role="line">(</tspan></text>
         <g
-           transform="translate(-75.614469,-54.367995)"
+           transform="translate(-75.614469,-54.96857)"
            id="g4683"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            inkscape:export-xdpi="121.45"
@@ -917,7 +848,7 @@
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000">expre</tspan></text>
         </g>
         <g
-           transform="translate(-43.770719,-18.140045)"
+           transform="translate(-43.770719,-18.740614)"
            id="g4693"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            inkscape:export-xdpi="121.45"
@@ -977,37 +908,37 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none" />
         </g>
         <text
-           transform="scale(0.80691026,1.2392952)"
+           transform="scale(0.80691019,1.2392953)"
            sodipodi:linespacing="125%"
            id="text4711"
-           y="588.97388"
+           y="588.48932"
            x="265.85349"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3"
-             y="588.97388"
+             y="588.48932"
              x="265.85349"
              id="tspan4713"
              sodipodi:role="line">(</tspan></text>
         <text
-           transform="scale(-0.80691026,1.2392952)"
+           transform="scale(-0.80691019,1.2392953)"
            sodipodi:linespacing="125%"
            id="text4715"
-           y="588.97388"
+           y="588.48932"
            x="-520.78058"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3"
-             y="588.97388"
+             y="588.48932"
              x="-520.78058"
              id="tspan4717"
              sodipodi:role="line">(</tspan></text>
         <g
-           transform="translate(-67.614469,-54.171295)"
+           transform="translate(-67.614469,-54.77187)"
            id="g4719"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            inkscape:export-xdpi="121.45"
@@ -1073,39 +1004,39 @@
                sodipodi:role="line">?</tspan></text>
         </g>
         <text
-           transform="scale(0.80691026,1.2392952)"
+           transform="scale(0.80691019,1.2392953)"
            sodipodi:linespacing="125%"
            id="text4739"
-           y="588.74292"
+           y="588.25836"
            x="368.10721"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3"
-             y="588.74292"
+             y="588.25836"
              x="368.10721"
              id="tspan4741"
              sodipodi:role="line">(</tspan></text>
         <text
-           transform="scale(-0.80691026,1.2392952)"
+           transform="scale(-0.80691019,1.2392953)"
            sodipodi:linespacing="125%"
            id="text4743"
-           y="588.81232"
-           x="-428.87949"
+           y="588.32776"
+           x="-428.87952"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3"
-             y="588.81232"
-             x="-428.87949"
+             y="588.32776"
+             x="-428.87952"
              id="tspan4745"
              sodipodi:role="line">(</tspan></text>
         <g
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
-           transform="matrix(44.8615,0,0,0.59932234,-13355.064,422.42907)"
+           transform="matrix(44.8615,0,0,0.59932245,-13355.064,421.82857)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.25333336;stroke:none"
            id="g4748">
           <rect
@@ -1119,7 +1050,7 @@
         <g
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
-           transform="matrix(68.300966,0,0,0.59813137,-20235.743,423.13957)"
+           transform="matrix(68.300966,0,0,0.59813148,-20235.743,422.53907)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.25333336;stroke:none"
            id="g4752">
           <rect
@@ -1133,7 +1064,7 @@
         <g
            inkscape:export-ydpi="316.02286"
            inkscape:export-xdpi="316.02286"
-           transform="matrix(117.02481,0,0,0.59932234,-34967.203,448.42907)"
+           transform="matrix(117.02481,0,0,0.59932245,-34967.203,447.82858)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
            id="g4534">
           <rect
@@ -1147,8 +1078,22 @@
              inkscape:export-ydpi="317.63" />
         </g>
         <g
+           id="g4628"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.25333336;stroke:none"
+           transform="matrix(44.8615,0,0,0.59932245,-13355.064,421.82857)"
+           inkscape:export-xdpi="121.45"
+           inkscape:export-ydpi="121.45">
+          <rect
+             style="opacity:0.75899999;fill:#999999;fill-opacity:0.25333336;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect4630"
+             width="2.8571365"
+             height="68.571434"
+             x="299.48929"
+             y="454.55197" />
+        </g>
+        <g
            id="g4538"
-           transform="matrix(4.5009746,0,0,0.39535138,-1378.2711,649.61324)"
+           transform="matrix(4.5009746,0,0,0.39535145,-1378.2711,649.01279)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#9bc3ff;fill-opacity:1;stroke:none"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45">
@@ -1164,7 +1109,7 @@
         </g>
         <g
            id="g4542"
-           transform="matrix(1.5244369,0,0,0.39535145,-321.5442,649.61323)"
+           transform="matrix(1.5244369,0,0,0.39535152,-321.5442,649.01278)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45">
@@ -1181,7 +1126,7 @@
         <g
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
            id="g4546"
-           transform="matrix(0.96223392,0,0,0.96223392,141.71143,377.12456)"
+           transform="matrix(0.96223392,0,0,0.96223409,141.71143,376.52405)"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45">
           <path
@@ -1200,14 +1145,14 @@
            inkscape:export-xdpi="121.45"
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="91.549088"
-           y="722.5473"
+           x="91.549095"
+           y="721.94684"
            id="text4552"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan4554"
-             x="91.549088"
-             y="722.5473"
+             x="91.549095"
+             y="721.94684"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000">regular</tspan></text>
         <text
            inkscape:export-ydpi="121.45"
@@ -1215,14 +1160,14 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="93.232086"
-           y="588.97382"
+           y="588.48926"
            id="text4556"
            sodipodi:linespacing="125%"
-           transform="scale(0.80691026,1.2392952)"><tspan
+           transform="scale(0.80691019,1.2392953)"><tspan
              sodipodi:role="line"
              id="tspan4558"
              x="93.232086"
-             y="588.97382"
+             y="588.48926"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3">(</tspan></text>
         <text
            inkscape:export-ydpi="121.45"
@@ -1230,21 +1175,35 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-265.31979"
-           y="588.97382"
+           y="588.48926"
            id="text4560"
            sodipodi:linespacing="125%"
-           transform="scale(-0.80691026,1.2392952)"><tspan
+           transform="scale(-0.80691019,1.2392953)"><tspan
              sodipodi:role="line"
              id="tspan4562"
              x="-265.31979"
-             y="588.97382"
+             y="588.48926"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3">(</tspan></text>
+        <g
+           id="g4632"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.25333336;stroke:none"
+           transform="matrix(68.300966,0,0,0.59813148,-20235.743,422.53907)"
+           inkscape:export-xdpi="121.45"
+           inkscape:export-ydpi="121.45">
+          <rect
+             style="opacity:0.75899999;fill:#999999;fill-opacity:0.25333336;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect4634"
+             width="2.8571365"
+             height="68.571434"
+             x="299.48929"
+             y="454.55197" />
+        </g>
         <g
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            id="g4564"
-           transform="translate(-75.614469,-54.367995)">
+           transform="translate(-75.614469,-54.96857)">
           <g
              inkscape:export-ydpi="121.45"
              inkscape:export-xdpi="121.45"
@@ -1279,7 +1238,7 @@
            inkscape:export-xdpi="121.45"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            id="g4574"
-           transform="translate(-43.770719,-18.140045)">
+           transform="translate(-43.770719,-18.740614)">
           <g
              inkscape:export-ydpi="121.45"
              inkscape:export-xdpi="121.45"
@@ -1340,14 +1299,14 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="265.85349"
-           y="588.97382"
+           y="588.48926"
            id="text4592"
            sodipodi:linespacing="125%"
-           transform="scale(0.80691026,1.2392952)"><tspan
+           transform="scale(0.80691019,1.2392953)"><tspan
              sodipodi:role="line"
              id="tspan4594"
              x="265.85349"
-             y="588.97382"
+             y="588.48926"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3">(</tspan></text>
         <text
            inkscape:export-ydpi="121.45"
@@ -1355,21 +1314,21 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-520.78058"
-           y="588.97382"
+           y="588.48926"
            id="text4596"
            sodipodi:linespacing="125%"
-           transform="scale(-0.80691026,1.2392952)"><tspan
+           transform="scale(-0.80691019,1.2392953)"><tspan
              sodipodi:role="line"
              id="tspan4598"
              x="-520.78058"
-             y="588.97382"
+             y="588.48926"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3">(</tspan></text>
         <g
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            id="g4600"
-           transform="translate(-67.614469,-54.171295)">
+           transform="translate(-67.614469,-54.77187)">
           <g
              inkscape:export-ydpi="121.45"
              inkscape:export-xdpi="121.45"
@@ -1436,62 +1395,34 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="368.10721"
-           y="588.74286"
+           y="588.2583"
            id="text4620"
            sodipodi:linespacing="125%"
-           transform="scale(0.80691026,1.2392952)"><tspan
+           transform="scale(0.80691019,1.2392953)"><tspan
              sodipodi:role="line"
              id="tspan4622"
              x="368.10721"
-             y="588.74286"
+             y="588.2583"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3">(</tspan></text>
         <text
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="-428.87949"
-           y="588.81226"
+           x="-428.87952"
+           y="588.3277"
            id="text4624"
            sodipodi:linespacing="125%"
-           transform="scale(-0.80691026,1.2392952)"><tspan
+           transform="scale(-0.80691019,1.2392953)"><tspan
              sodipodi:role="line"
              id="tspan4626"
-             x="-428.87949"
-             y="588.81226"
+             x="-428.87952"
+             y="588.3277"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3">(</tspan></text>
-        <g
-           id="g4628"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.25333336;stroke:none"
-           transform="matrix(44.8615,0,0,0.59932234,-13355.064,422.42907)"
-           inkscape:export-xdpi="121.45"
-           inkscape:export-ydpi="121.45">
-          <rect
-             style="opacity:0.75899999;fill:#999999;fill-opacity:0.25333336;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="rect4630"
-             width="2.8571365"
-             height="68.571434"
-             x="299.48929"
-             y="454.55197" />
-        </g>
-        <g
-           id="g4632"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.25333336;stroke:none"
-           transform="matrix(68.300966,0,0,0.59813137,-20235.743,423.13957)"
-           inkscape:export-xdpi="121.45"
-           inkscape:export-ydpi="121.45">
-          <rect
-             style="opacity:0.75899999;fill:#999999;fill-opacity:0.25333336;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="rect4634"
-             width="2.8571365"
-             height="68.571434"
-             x="299.48929"
-             y="454.55197" />
-        </g>
         <g
            inkscape:export-ydpi="316.02286"
            inkscape:export-xdpi="316.02286"
-           transform="matrix(117.02481,0,0,0.59932234,-34967.203,498.32197)"
+           transform="matrix(117.02481,0,0,0.59932575,-34967.203,499.71999)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
            id="g4761">
           <rect
@@ -1506,7 +1437,7 @@
         </g>
         <g
            id="g4765"
-           transform="matrix(4.5009746,0,0,0.39535138,-1378.2711,699.50614)"
+           transform="matrix(4.5009746,0,0,0.39535363,-1378.2711,700.90528)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#9bc3ff;fill-opacity:1;stroke:none"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45">
@@ -1522,7 +1453,7 @@
         </g>
         <g
            id="g4769"
-           transform="matrix(1.5244369,0,0,0.39535145,-321.5442,699.50613)"
+           transform="matrix(1.5244369,0,0,0.3953537,-321.5442,700.90527)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45">
@@ -1539,7 +1470,7 @@
         <g
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
            id="g4773"
-           transform="matrix(0.96223392,0,0,0.96223392,141.71143,427.01746)"
+           transform="matrix(0.96223392,0,0,0.9622394,141.71143,428.41508)"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45">
           <path
@@ -1558,51 +1489,52 @@
            inkscape:export-xdpi="121.45"
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="91.549088"
-           y="772.44019"
+           x="91.549362"
+           y="773.83759"
            id="text4779"
-           sodipodi:linespacing="125%"><tspan
+           sodipodi:linespacing="125%"
+           transform="scale(0.9999971,1.0000029)"><tspan
              sodipodi:role="line"
              id="tspan4781"
-             x="91.549088"
-             y="772.44019"
+             x="91.549362"
+             y="773.83759"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000">regular</tspan></text>
         <text
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="93.232086"
-           y="629.23291"
+           x="93.232368"
+           y="630.36053"
            id="text4783"
            sodipodi:linespacing="125%"
-           transform="scale(0.80691026,1.2392952)"><tspan
+           transform="scale(0.8069079,1.2392988)"><tspan
              sodipodi:role="line"
              id="tspan4785"
-             x="93.232086"
-             y="629.23291"
+             x="93.232368"
+             y="630.36053"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3">(</tspan></text>
         <text
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="-265.31979"
-           y="629.23291"
+           x="-265.32059"
+           y="630.36053"
            id="text4787"
            sodipodi:linespacing="125%"
-           transform="scale(-0.80691026,1.2392952)"><tspan
+           transform="scale(-0.8069079,1.2392988)"><tspan
              sodipodi:role="line"
              id="tspan4789"
-             x="-265.31979"
-             y="629.23291"
+             x="-265.32059"
+             y="630.36053"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3">(</tspan></text>
         <g
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            id="g4791"
-           transform="translate(-75.614469,-4.4750937)">
+           transform="matrix(1,0,0,1.0000013,-75.614469,-3.0799368)">
           <g
              inkscape:export-ydpi="121.45"
              inkscape:export-xdpi="121.45"
@@ -1637,7 +1569,7 @@
            inkscape:export-xdpi="121.45"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            id="g4801"
-           transform="translate(-43.770719,31.752856)">
+           transform="matrix(1,0,0,1.0000013,-43.770719,33.148219)">
           <g
              inkscape:export-ydpi="121.45"
              inkscape:export-xdpi="121.45"
@@ -1697,37 +1629,37 @@
            inkscape:export-xdpi="121.45"
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="265.85349"
-           y="629.23291"
+           x="265.85428"
+           y="630.36053"
            id="text4819"
            sodipodi:linespacing="125%"
-           transform="scale(0.80691026,1.2392952)"><tspan
+           transform="scale(0.8069079,1.2392988)"><tspan
              sodipodi:role="line"
              id="tspan4821"
-             x="265.85349"
-             y="629.23291"
+             x="265.85428"
+             y="630.36053"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3">(</tspan></text>
         <text
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="-520.78058"
-           y="629.23291"
+           x="-520.7821"
+           y="630.36053"
            id="text4823"
            sodipodi:linespacing="125%"
-           transform="scale(-0.80691026,1.2392952)"><tspan
+           transform="scale(-0.8069079,1.2392988)"><tspan
              sodipodi:role="line"
              id="tspan4825"
-             x="-520.78058"
-             y="629.23291"
+             x="-520.7821"
+             y="630.36053"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3">(</tspan></text>
         <g
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            id="g4827"
-           transform="translate(-67.614469,-4.2783937)">
+           transform="matrix(1,0,0,1.0000013,-67.614469,-2.883236)">
           <g
              inkscape:export-ydpi="121.45"
              inkscape:export-xdpi="121.45"
@@ -1793,35 +1725,35 @@
            inkscape:export-xdpi="121.45"
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="368.10721"
-           y="629.00195"
+           x="368.10834"
+           y="630.12958"
            id="text4847"
            sodipodi:linespacing="125%"
-           transform="scale(0.80691026,1.2392952)"><tspan
+           transform="scale(0.8069079,1.2392988)"><tspan
              sodipodi:role="line"
              id="tspan4849"
-             x="368.10721"
-             y="629.00195"
+             x="368.10834"
+             y="630.12958"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3">(</tspan></text>
         <text
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="-428.87949"
-           y="629.07135"
+           x="-428.88077"
+           y="630.19897"
            id="text4851"
            sodipodi:linespacing="125%"
-           transform="scale(-0.80691026,1.2392952)"><tspan
+           transform="scale(-0.8069079,1.2392988)"><tspan
              sodipodi:role="line"
              id="tspan4853"
-             x="-428.87949"
-             y="629.07135"
+             x="-428.88077"
+             y="630.19897"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3">(</tspan></text>
         <g
            id="g4855"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.25333336;stroke:none"
-           transform="matrix(44.8615,0,0,0.59932234,-13355.064,472.32197)"
+           transform="matrix(44.8615,0,0,0.59932575,-13355.064,473.71985)"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45">
           <rect
@@ -1835,7 +1767,7 @@
         <g
            id="g4859"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.25333336;stroke:none"
-           transform="matrix(68.300966,0,0,0.59813137,-20235.743,473.03247)"
+           transform="matrix(68.300966,0,0,0.59813477,-20235.743,474.43035)"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45">
           <rect
@@ -1849,7 +1781,7 @@
         <g
            id="g4865"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-           transform="matrix(117.02481,0,0,0.59932234,-34967.203,498.32197)"
+           transform="matrix(117.02481,0,0,0.59932575,-34967.203,499.71999)"
            inkscape:export-xdpi="316.02286"
            inkscape:export-ydpi="316.02286">
           <rect
@@ -1865,8 +1797,36 @@
         <g
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
+           transform="matrix(44.8615,0,0,0.59932575,-13355.064,473.71985)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.25333336;stroke:none"
+           id="g4959">
+          <rect
+             y="454.55197"
+             x="299.48929"
+             height="68.571434"
+             width="2.8571365"
+             id="rect4961"
+             style="opacity:0.75899999;fill:#999999;fill-opacity:0.25333336;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <g
+           inkscape:export-ydpi="121.45"
+           inkscape:export-xdpi="121.45"
+           transform="matrix(68.300966,0,0,0.59813477,-20235.743,474.43035)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.25333336;stroke:none"
+           id="g4963">
+          <rect
+             y="454.55197"
+             x="299.48929"
+             height="68.571434"
+             width="2.8571365"
+             id="rect4965"
+             style="opacity:0.75899999;fill:#999999;fill-opacity:0.25333336;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <g
+           inkscape:export-ydpi="121.45"
+           inkscape:export-xdpi="121.45"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#9bc3ff;fill-opacity:1;stroke:none"
-           transform="matrix(4.5009746,0,0,0.39535138,-1378.2711,699.50614)"
+           transform="matrix(4.5009746,0,0,0.39535363,-1378.2711,700.90528)"
            id="g4869">
           <rect
              rx="13.432759"
@@ -1882,7 +1842,7 @@
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none"
-           transform="matrix(1.5244369,0,0,0.39535145,-321.5442,699.50613)"
+           transform="matrix(1.5244369,0,0,0.3953537,-321.5442,700.90527)"
            id="g4873">
           <rect
              rx="12.09355"
@@ -1897,7 +1857,7 @@
         <g
            inkscape:export-ydpi="121.45"
            inkscape:export-xdpi="121.45"
-           transform="matrix(0.96223392,0,0,0.96223392,141.71143,427.01746)"
+           transform="matrix(0.96223392,0,0,0.9622394,141.71143,428.41508)"
            id="g4877"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none">
           <path
@@ -1914,49 +1874,50 @@
         <text
            sodipodi:linespacing="125%"
            id="text4883"
-           y="772.44019"
-           x="91.549088"
+           y="773.83759"
+           x="91.549362"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-xdpi="121.45"
-           inkscape:export-ydpi="121.45"><tspan
+           inkscape:export-ydpi="121.45"
+           transform="scale(0.9999971,1.0000029)"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000"
-             y="772.44019"
-             x="91.549088"
+             y="773.83759"
+             x="91.549362"
              id="tspan4885"
              sodipodi:role="line">regular</tspan></text>
         <text
-           transform="scale(0.80691026,1.2392952)"
+           transform="scale(0.8069079,1.2392988)"
            sodipodi:linespacing="125%"
            id="text4887"
-           y="629.23291"
-           x="93.232086"
+           y="630.36053"
+           x="93.232368"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3"
-             y="629.23291"
-             x="93.232086"
+             y="630.36053"
+             x="93.232368"
              id="tspan4889"
              sodipodi:role="line">(</tspan></text>
         <text
-           transform="scale(-0.80691026,1.2392952)"
+           transform="scale(-0.8069079,1.2392988)"
            sodipodi:linespacing="125%"
            id="text4891"
-           y="629.23291"
-           x="-265.31979"
+           y="630.36053"
+           x="-265.32059"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3"
-             y="629.23291"
-             x="-265.31979"
+             y="630.36053"
+             x="-265.32059"
              id="tspan4893"
              sodipodi:role="line">(</tspan></text>
         <g
-           transform="translate(-75.614469,-4.4750937)"
+           transform="matrix(1,0,0,1.0000013,-75.614469,-3.0799368)"
            id="g4895"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            inkscape:export-xdpi="121.45"
@@ -1991,7 +1952,7 @@
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000">expre</tspan></text>
         </g>
         <g
-           transform="translate(-43.770719,31.752856)"
+           transform="matrix(1,0,0,1.0000013,-43.770719,33.148219)"
            id="g4905"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            inkscape:export-xdpi="121.45"
@@ -2051,37 +2012,37 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none" />
         </g>
         <text
-           transform="scale(0.80691026,1.2392952)"
+           transform="scale(0.8069079,1.2392988)"
            sodipodi:linespacing="125%"
            id="text4923"
-           y="629.23291"
-           x="265.85349"
+           y="630.36053"
+           x="265.85428"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3"
-             y="629.23291"
-             x="265.85349"
+             y="630.36053"
+             x="265.85428"
              id="tspan4925"
              sodipodi:role="line">(</tspan></text>
         <text
-           transform="scale(-0.80691026,1.2392952)"
+           transform="scale(-0.8069079,1.2392988)"
            sodipodi:linespacing="125%"
            id="text4927"
-           y="629.23291"
-           x="-520.78058"
+           y="630.36053"
+           x="-520.7821"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3"
-             y="629.23291"
-             x="-520.78058"
+             y="630.36053"
+             x="-520.7821"
              id="tspan4929"
              sodipodi:role="line">(</tspan></text>
         <g
-           transform="translate(-67.614469,-4.2783937)"
+           transform="matrix(1,0,0,1.0000013,-67.614469,-2.883236)"
            id="g4931"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            inkscape:export-xdpi="121.45"
@@ -2147,63 +2108,35 @@
                sodipodi:role="line">?</tspan></text>
         </g>
         <text
-           transform="scale(0.80691026,1.2392952)"
+           transform="scale(0.8069079,1.2392988)"
            sodipodi:linespacing="125%"
            id="text4951"
-           y="629.00195"
-           x="368.10721"
+           y="630.12958"
+           x="368.10834"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3"
-             y="629.00195"
-             x="368.10721"
+             y="630.12958"
+             x="368.10834"
              id="tspan4953"
              sodipodi:role="line">(</tspan></text>
         <text
-           transform="scale(-0.80691026,1.2392952)"
+           transform="scale(-0.8069079,1.2392988)"
            sodipodi:linespacing="125%"
            id="text4955"
-           y="629.07135"
-           x="-428.87949"
+           y="630.19897"
+           x="-428.88077"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;line-height:125%;font-family:Sans;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-xdpi="121.45"
            inkscape:export-ydpi="121.45"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.31960297px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b3b3b3"
-             y="629.07135"
-             x="-428.87949"
+             y="630.19897"
+             x="-428.88077"
              id="tspan4957"
              sodipodi:role="line">(</tspan></text>
-        <g
-           inkscape:export-ydpi="121.45"
-           inkscape:export-xdpi="121.45"
-           transform="matrix(44.8615,0,0,0.59932234,-13355.064,472.32197)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.25333336;stroke:none"
-           id="g4959">
-          <rect
-             y="454.55197"
-             x="299.48929"
-             height="68.571434"
-             width="2.8571365"
-             id="rect4961"
-             style="opacity:0.75899999;fill:#999999;fill-opacity:0.25333336;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        </g>
-        <g
-           inkscape:export-ydpi="121.45"
-           inkscape:export-xdpi="121.45"
-           transform="matrix(68.300966,0,0,0.59813137,-20235.743,473.03247)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.25333336;stroke:none"
-           id="g4963">
-          <rect
-             y="454.55197"
-             x="299.48929"
-             height="68.571434"
-             width="2.8571365"
-             id="rect4965"
-             style="opacity:0.75899999;fill:#999999;fill-opacity:0.25333336;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        </g>
       </g>
     </g>
   </g>
