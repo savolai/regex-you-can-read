@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8101934"
-     inkscape:cx="212.92674"
+     inkscape:cx="376.17418"
      inkscape:cy="911.3672"
      inkscape:document-units="px"
-     inkscape:current-layer="g4042"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5312">
@@ -146,21 +146,14 @@
            y="463.21759"
            ry="0" />
       </g>
-      <g
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none"
-         transform="matrix(1.5244369,0,0,0.39535145,14.938577,588.0065)"
-         id="g4183-0-5-7-0-2-5"
-         inkscape:export-xdpi="121.45"
-         inkscape:export-ydpi="121.45">
-        <rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#c7ddff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect4076-8-1-4-7-7-2"
-           width="18.841806"
-           height="84.852814"
-           x="325.49802"
-           y="125.32067"
-           ry="12.09355" />
-      </g>
+      <rect
+         ry="4.7812023"
+         y="637.55219"
+         x="511.13977"
+         height="33.546684"
+         width="28.723145"
+         id="rect4076-8-1-4-7-7-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#d1d1d1;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          id="g4183-0-5-9-5-1-1-1"
          transform="matrix(0.99589652,0,0,0.39535146,64.0618,588.44079)"
@@ -176,21 +169,14 @@
            id="rect4076-8-1-4-8-4-4-5-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b9d5ff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
-      <g
-         id="g6233"
-         transform="matrix(1.5244369,0,0,0.39535145,-401.8614,588.0065)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none"
-         inkscape:export-xdpi="121.45"
-         inkscape:export-ydpi="121.45">
-        <rect
-           ry="12.09355"
-           y="125.32067"
-           x="325.49802"
-           height="84.852814"
-           width="18.841806"
-           id="rect6235"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#c7ddff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      </g>
+      <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#d1d1d1;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6235"
+         width="28.723145"
+         height="33.546684"
+         x="94.33979"
+         y="637.55219"
+         ry="4.7812023" />
     </g>
     <path
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -394,19 +380,19 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#4d4d4d">-</tspan></text>
     </g>
     <g
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
        id="g4960-95"
        transform="matrix(0.96223392,0,0,0.96223392,28.705477,-249.42119)"
        inkscape:export-xdpi="121.45"
        inkscape:export-ydpi="121.45">
       <path
          id="path3762-4-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
          d="m 37.749901,340.48937 2.232,0 8.136,23.232 -2.28,0 -8.088,-23.232"
          inkscape:connector-curvature="0" />
       <path
          id="path3764-6-63"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
          d="m 51.712281,347.35337 c 0.27199,-0.17599 0.67999,-0.35999 1.224,-0.552 0.55999,-0.19199 1.19999,-0.28799 1.92,-0.288 0.89599,10e-6 1.68799,0.16001 2.376,0.48 0.70399,0.32001 1.29599,0.76801 1.776,1.344 0.47999,0.57601 0.83999,1.26401 1.08,2.064 0.25598,0.80001 0.38398,1.68001 0.384,2.64 -2e-5,1.00801 -0.15202,1.92 -0.456,2.736 -0.28801,0.8 -0.70401,1.48 -1.248,2.04 -0.54401,0.56 -1.20001,0.992 -1.968,1.296 -0.76801,0.304 -1.63201,0.456 -2.592,0.456 -1.04001,0 -1.96001,-0.072 -2.76,-0.216 -0.80001,-0.144 -1.456,-0.288 -1.968,-0.432 l 0,-17.88 2.232,-0.384 0,6.696 m 0,9.984 c 0.22399,0.064 0.53599,0.128 0.936,0.192 0.41599,0.048 0.92799,0.072 1.536,0.072 1.19999,0 2.15999,-0.392 2.88,-1.176 0.71999,-0.8 1.07999,-1.928 1.08,-3.384 -10e-6,-0.63999 -0.064,-1.23999 -0.192,-1.8 -0.12801,-0.55999 -0.33601,-1.03999 -0.624,-1.44 -0.28801,-0.41599 -0.66401,-0.73599 -1.128,-0.96 -0.44801,-0.23999 -0.99201,-0.35999 -1.632,-0.36 -0.60801,10e-6 -1.16801,0.10401 -1.68,0.312 -0.51201,0.20801 -0.90401,0.42401 -1.176,0.648 l 0,7.896"
          inkscape:connector-curvature="0" />
     </g>
@@ -451,14 +437,14 @@
     </g>
     <path
        id="path3762-4-6-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
        d="m 481.37535,77.570143 2.14772,0 7.82872,22.35462 -2.19389,0 -7.78255,-22.35462"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="121.45"
        inkscape:export-ydpi="121.45" />
     <path
        id="path3764-6-6-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
        d="m 494.81044,84.174913 c 0.26171,-0.16934 0.6543,-0.34639 1.17776,-0.53115 0.53884,-0.18474 1.15467,-0.2771 1.84749,-0.27711 0.86215,1e-5 1.62424,0.15395 2.28627,0.46186 0.6774,0.30792 1.24705,0.739 1.70893,1.29324 0.46186,0.55427 0.80826,1.21628 1.03921,1.98605 0.24631,0.7698 0.36949,1.61656 0.3695,2.5403 -10e-6,0.96994 -0.14627,1.84749 -0.43877,2.63267 -0.27714,0.76979 -0.67743,1.42411 -1.20088,1.96296 -0.52346,0.53885 -1.15469,0.95453 -1.89367,1.24705 -0.73901,0.29252 -1.57038,0.43878 -2.49412,0.43878 -1.00073,0 -1.88598,-0.0693 -2.65575,-0.20784 -0.76981,-0.13856 -1.40102,-0.27711 -1.89369,-0.41568 l 0,-17.20475 2.14772,-0.36949 0,6.44311 m 0,9.60696 c 0.21551,0.0616 0.51574,0.12315 0.90064,0.18474 0.40027,0.0462 0.89294,0.0693 1.47799,0.0693 1.15467,0 2.07842,-0.3772 2.77123,-1.13159 0.6928,-0.76979 1.03921,-1.85519 1.03922,-3.2562 -1e-5,-0.61582 -0.0616,-1.19316 -0.18475,-1.73202 -0.12318,-0.53883 -0.32332,-1.00071 -0.60044,-1.38562 -0.27713,-0.40028 -0.63893,-0.70818 -1.0854,-0.92373 -0.43109,-0.23094 -0.95453,-0.34641 -1.57035,-0.34642 -0.58506,1e-5 -1.12391,0.10009 -1.61656,0.30022 -0.49268,0.20015 -0.86987,0.40801 -1.13158,0.62354 l 0,7.59779"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="121.45"
