@@ -17,9 +17,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="2015-07-26 menu quantifier.svg"
-   inkscape:export-filename="/Users/olli/Documents/regex-you-can-read/design prototypes/syntax/2015-07-26 menu quantifier.png"
-   inkscape:export-xdpi="263.35239"
-   inkscape:export-ydpi="263.35239">
+   inkscape:export-filename="C:\Users\olli\Documents\regex-you-can-read\design prototypes\syntax\2015-07-26 menu quantifier.png"
+   inkscape:export-xdpi="421.35999"
+   inkscape:export-ydpi="421.35999">
   <defs
      id="defs4824">
     <filter
@@ -64,16 +64,16 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.3906545"
      inkscape:cx="102.90069"
-     inkscape:cy="111.67636"
+     inkscape:cy="128.40818"
      inkscape:document-units="px"
-     inkscape:current-layer="g6171"
+     inkscape:current-layer="g4760"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="751"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-width="1707"
+     inkscape:window-height="1004"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -852,7 +852,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path4967-8"
-         d="m 256.92762,739.16298 0,-27.71828"
+         d="m 254.12762,739.16298 0,-27.71828"
          style="fill:#c7c7c7;fill-opacity:1;fill-rule:evenodd;stroke:#878787;stroke-width:0.77459669;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#c9c9c9;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5668)"
