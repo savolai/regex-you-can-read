@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="96.579102mm"
-   height="41.638264mm"
-   viewBox="0 0 342.20941 147.53715"
+   width="99.495819mm"
+   height="43.889141mm"
+   viewBox="0 0 352.54424 155.5127"
    id="svg4822"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="2015-07-26-cursor.svg"
-   inkscape:export-filename="/Users/olli/Documents/regex-you-can-read/design prototypes/syntax/2015-07-26.png"
-   inkscape:export-xdpi="262.99686"
-   inkscape:export-ydpi="262.99686">
+   inkscape:export-filename="/Users/olli/Documents/regex-you-can-read/design prototypes/syntax/blog post/2015-07-26.png"
+   inkscape:export-xdpi="420.79498"
+   inkscape:export-ydpi="420.79498">
   <defs
      id="defs4824" />
   <sodipodi:namedview
@@ -29,15 +29,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.0532381"
-     inkscape:cx="158.06702"
-     inkscape:cy="69.529308"
+     inkscape:cx="110.22225"
+     inkscape:cy="74.504648"
      inkscape:document-units="px"
-     inkscape:current-layer="g4760"
+     inkscape:current-layer="g8092"
      showgrid="false"
-     inkscape:window-width="1707"
-     inkscape:window-height="1004"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      showguides="false"
      fit-margin-top="0"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,7 +60,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-73.706021,-733.14004)">
+     transform="translate(-68.328604,-730.13984)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot5858"
@@ -92,7 +92,7 @@
        id="g4760"
        transform="translate(-2.6133044,41.159544)">
       <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#898989;stroke-width:0.312;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#898989;stroke-width:0.31200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect8401"
          width="352.23224"
          height="155.2007"
@@ -2109,7 +2109,7 @@
            id="g8744">
           <path
              style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.77459669;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 257.15949,780.21702 0,-27.71828"
+             d="m 257.35962,781.51665 0,-27.71828"
              id="path4967"
              inkscape:connector-curvature="0" />
           <path
