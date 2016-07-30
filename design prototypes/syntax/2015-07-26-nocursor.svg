@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="2015-07-26-nocursor.svg"
-   inkscape:export-filename="/Users/olli/Documents/regex-you-can-read/design prototypes/syntax/blog post/2015-07-26-nocursor.png"
+   inkscape:export-filename="/Users/olli/Documents/regex-you-can-read/design prototypes/syntax/blog post/2015-07-26.png"
    inkscape:export-xdpi="420.79498"
    inkscape:export-ydpi="420.79498">
   <defs
@@ -2105,6 +2105,24 @@
              x="-428.88077"
              id="tspan4957"
              sodipodi:role="line">(</tspan></text>
+        <g
+           id="g8744">
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.77459669;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 257.35962,781.51665 0,-27.71828"
+             id="path4967"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4969"
+             d="m 321.15949,835.14096 0,-30.95208"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.81853539;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 214.19616,738.17763 0,-46.19713"
+             id="path4492"
+             inkscape:connector-curvature="0" />
+        </g>
       </g>
       <path
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#898989;stroke-width:0.31200001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

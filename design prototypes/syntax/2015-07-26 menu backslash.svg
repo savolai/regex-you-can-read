@@ -18,8 +18,8 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="2015-07-26 menu backslash.svg"
    inkscape:export-filename="/Users/olli/Documents/regex-you-can-read/design prototypes/syntax/2015-07-26 menu backslash.png"
-   inkscape:export-xdpi="421.36383"
-   inkscape:export-ydpi="421.36383">
+   inkscape:export-xdpi="422.35306"
+   inkscape:export-ydpi="422.35306">
   <defs
      id="defs4824">
     <filter
@@ -63,15 +63,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1646365"
-     inkscape:cx="67.344796"
+     inkscape:cx="101.99265"
      inkscape:cy="128.3011"
      inkscape:document-units="px"
-     inkscape:current-layer="g4760"
+     inkscape:current-layer="g5301"
      showgrid="false"
-     inkscape:window-width="1707"
-     inkscape:window-height="1004"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      showguides="true"
      fit-margin-top="0"
@@ -801,7 +801,7 @@
         <path
            inkscape:connector-curvature="0"
            id="path4967"
-           d="m 254.75962,780.21702 0,-27.71828"
+           d="m 257.68962,780.21702 0,-27.71828"
            style="fill:#c7c7c7;fill-opacity:1;fill-rule:evenodd;stroke:#878787;stroke-width:0.77459669;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <g
            inkscape:export-ydpi="121.45"
