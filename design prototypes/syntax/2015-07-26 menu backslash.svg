@@ -63,10 +63,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1646365"
-     inkscape:cx="136.40951"
+     inkscape:cx="67.344796"
      inkscape:cy="128.3011"
      inkscape:document-units="px"
-     inkscape:current-layer="g5301"
+     inkscape:current-layer="g4760"
      showgrid="false"
      inkscape:window-width="1707"
      inkscape:window-height="1004"
@@ -858,9 +858,10 @@
          y="737.11456" />
       <g
          id="g5704"
-         transform="translate(0,6)">
+         transform="translate(0,6)"
+         style="fill:#f9f9f9">
         <rect
-           style="opacity:1;fill:#e9e9e9;fill-opacity:1;stroke:#aaaaaa;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#aaaaaa;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect5682"
            width="119.80381"
            height="15.278997"
@@ -870,7 +871,7 @@
            width="0.46949601"
            height="11.289124"
            preserveAspectRatio="none"
-           style="image-rendering:optimizeSpeed"
+           style="image-rendering:optimizeSpeed;fill:#f9f9f9"
            xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAcCAYAAACgXdXMAAAABHNCSVQICAgIfAhkiAAAABhJREFU CJlj0NPT+8TEwMDAMLCEgoLCbQDcPwLuDT+KEQAAAABJRU5ErkJggg== "
            id="image5701"
            x="261.84052"
