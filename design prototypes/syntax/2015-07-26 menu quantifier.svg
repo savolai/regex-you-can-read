@@ -63,13 +63,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.3906545"
-     inkscape:cx="40.365514"
+     inkscape:cx="221.51497"
      inkscape:cy="128.40818"
      inkscape:document-units="px"
-     inkscape:current-layer="g5704"
+     inkscape:current-layer="g4760"
      showgrid="false"
-     inkscape:window-width="1707"
-     inkscape:window-height="1004"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -898,7 +898,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:5px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
          x="255.62965"
          y="743.1463"
          id="text5708"
@@ -907,20 +907,20 @@
            id="tspan5710"
            x="255.62965"
            y="743.1463"
-           style="font-size:5px;fill:#4d4d4d">search</tspan></text>
+           style="font-size:5px;fill:#4d4d4d;-inkscape-font-specification:'DengXian, Normal';font-family:DengXian;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">search</tspan></text>
       <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 250.46728,785.89965 123.55166,0"
+         style="fill:#d6d6d6;fill-rule:evenodd;stroke:#949494;stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         d="m 248.37581,785.89965 125.64315,0"
          id="path5712"
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
          id="path5714"
-         d="m 250.46728,809.59967 123.55166,0"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 248.37581,809.59967 125.64315,0"
+         style="fill:#d6d6d6;fill-rule:evenodd;stroke:#949494;stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
          x="252.94073"
          y="771.93359"
          id="text5716"
@@ -934,21 +934,21 @@
          id="text5720"
          y="796.03357"
          x="252.94073"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
          xml:space="preserve"><tspan
            y="796.03357"
            x="252.94073"
            id="tspan5722"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">Add group quantifier: 1 or more </tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';font-size:7.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">Add group quantifier: 1 or more </tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
          x="252.94073"
          y="818.83374"
          id="text5745"
          sodipodi:linespacing="125%"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Al Nile PUA';-inkscape-font-specification:'.Al Nile PUA'"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';font-size:7.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
            sodipodi:role="line"
            id="tspan5747"
            x="252.94073"
@@ -969,33 +969,33 @@
          id="text5791"
          y="804.93359"
          x="252.94073"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
          xml:space="preserve"><tspan
            y="804.93359"
            x="252.94073"
            id="tspan5793"
            sodipodi:role="line"
-           style="font-size:6.25px">(group)+</tspan></text>
+           style="font-size:6.25px;-inkscape-font-specification:'DengXian, Normal';font-family:DengXian;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">(group)+</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
          x="252.94073"
          y="780.93359"
          id="text5795"
          sodipodi:linespacing="125%"><tspan
-           style="font-size:6.25px"
+           style="font-size:6.25px;-inkscape-font-specification:'DengXian, Normal';font-family:DengXian;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
            sodipodi:role="line"
            id="tspan5797"
            x="252.94073"
            y="780.93359">(group)*</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
          x="252.94073"
          y="827.73376"
          id="text5799"
          sodipodi:linespacing="125%"><tspan
-           style="font-size:6.25px"
+           style="font-size:6.25px;-inkscape-font-specification:'DengXian, Normal';font-family:DengXian;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
            sodipodi:role="line"
            x="252.94073"
            y="827.73376"
@@ -1008,8 +1008,8 @@
          x="378.95248"
          y="766.59161" />
       <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 250.46728,832.79979 123.55166,0"
+         style="fill:#d6d6d6;fill-rule:evenodd;stroke:#949494;stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         d="m 248.37581,832.79979 125.64315,0"
          id="path5826"
          inkscape:connector-curvature="0" />
       <text
@@ -1017,57 +1017,57 @@
          id="text5828"
          y="842.03381"
          x="252.94073"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
          xml:space="preserve"><tspan
            y="842.03381"
            x="252.94073"
            id="tspan5830"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Al Nile PUA';-inkscape-font-specification:'.Al Nile PUA'">Add subgroup</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';font-size:7.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">Add subgroup</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text5832"
          y="850.93384"
          x="252.94073"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
          xml:space="preserve"><tspan
            y="850.93384"
            x="252.94073"
            id="tspan5834"
            sodipodi:role="line"
-           style="font-size:6.25px">(group(subgroup))</tspan></text>
+           style="font-size:6.25px;-inkscape-font-specification:'DengXian, Normal';font-family:DengXian;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">(group(subgroup))</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path5836"
-         d="m 250.46728,856.79979 123.55166,0"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 248.37581,856.79979 125.64315,0"
+         style="fill:#d6d6d6;fill-rule:evenodd;stroke:#949494;stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
          x="252.94073"
          y="866.03381"
          id="text5838"
          sodipodi:linespacing="125%"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Al Nile PUA';-inkscape-font-specification:'.Al Nile PUA'"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';font-size:7.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
            sodipodi:role="line"
            id="tspan5840"
            x="252.94073"
            y="866.03381">Add character class</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
          x="252.94073"
          y="874.93384"
          id="text5842"
          sodipodi:linespacing="125%"><tspan
-           style="font-size:6.25px"
+           style="font-size:6.25px;-inkscape-font-specification:'DengXian, Normal';font-family:DengXian;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
            sodipodi:role="line"
            id="tspan5844"
            x="252.94073"
            y="874.93384">Example: [a-z]</tspan></text>
       <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 250.46728,880.79979 123.55166,0"
+         style="fill:#d6d6d6;fill-rule:evenodd;stroke:#949494;stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         d="m 248.37581,880.79979 125.64315,0"
          id="path5846"
          inkscape:connector-curvature="0" />
       <text
@@ -1075,33 +1075,33 @@
          id="text5848"
          y="890.03381"
          x="252.94073"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
          xml:space="preserve"><tspan
            y="890.03381"
            x="252.94073"
            id="tspan5850"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Al Nile PUA';-inkscape-font-specification:'.Al Nile PUA'">Add word boundary</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';font-size:7.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">Add word boundary</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text5852"
          y="898.93384"
          x="252.94073"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
          xml:space="preserve"><tspan
            y="898.93384"
            x="252.94073"
            id="tspan5854"
            sodipodi:role="line"
-           style="font-size:6.25px">Typically \b</tspan></text>
+           style="font-size:6.25px;-inkscape-font-specification:'DengXian, Normal';font-family:DengXian;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">Typically \b</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text4291"
          y="743.1463"
          x="327.62964"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         style="font-style:normal;font-weight:normal;font-size:5px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
          xml:space="preserve"><tspan
-           style="font-size:5px;fill:#797979;fill-opacity:1;"
+           style="font-size:5px;fill:#797979;fill-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-family:DengXian;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
            y="743.1463"
            x="327.62964"
            id="tspan4293"
