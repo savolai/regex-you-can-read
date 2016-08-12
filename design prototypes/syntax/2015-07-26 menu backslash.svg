@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="2015-07-26 menu backslash.svg"
-   inkscape:export-filename="/Users/olli/Documents/regex-you-can-read/design prototypes/syntax/2015-07-26 menu backslash.png"
+   inkscape:export-filename="/Users/olli/Documents/regex-you-can-read/design prototypes/syntax/blog post/2015-07-26 menu backslash.png"
    inkscape:export-xdpi="421.36383"
    inkscape:export-ydpi="421.36383">
   <defs
@@ -63,7 +63,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.0612583"
-     inkscape:cx="183.4011"
+     inkscape:cx="134.56497"
      inkscape:cy="123.14241"
      inkscape:document-units="px"
      inkscape:current-layer="g4760"
@@ -958,51 +958,51 @@
       <text
          sodipodi:linespacing="125%"
          id="text4322"
-         y="820.03381"
+         y="819.03357"
          x="252.94073"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="820.03381"
+           y="819.03357"
            x="252.94073"
            id="tspan4324"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';font-size:7.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">Add word character match .</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Add word character match .</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text4326"
-         y="828.93384"
+         y="827.93359"
          x="252.94073"
-         style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="828.93384"
+           y="827.93359"
            x="252.94073"
            sodipodi:role="line"
-           style="font-size:6.25px;-inkscape-font-specification:'DengXian, Normal';font-family:DengXian;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
            id="tspan5054">Typically \w </tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="252.94073"
-         y="867.03339"
+         y="866.53357"
          id="text5084"
          sodipodi:linespacing="125%"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';font-size:7.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            id="tspan5086"
            x="252.94073"
-           y="867.03339">Add word boundary</tspan></text>
+           y="866.53357">Add word boundary</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="252.94073"
-         y="875.93341"
+         y="875.43359"
          id="text5088"
          sodipodi:linespacing="125%"><tspan
-           style="font-size:6.25px;-inkscape-font-specification:'DengXian, Normal';font-family:DengXian;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            id="tspan5090"
            x="252.94073"
-           y="875.93341">Typically \b</tspan></text>
+           y="875.43359">Typically \b</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1016,52 +1016,52 @@
            y="780.25085" /></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="252.94073"
-         y="843.83344"
+         y="842.33362"
          id="text7857"
          sodipodi:linespacing="125%"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';font-size:7.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            id="tspan7859"
            x="252.94073"
-           y="843.83344">Add non-word character match .</tspan></text>
+           y="842.33362">Add non-word character match .</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="252.94073"
-         y="852.73346"
+         y="851.23364"
          id="text7861"
          sodipodi:linespacing="125%"><tspan
            id="tspan7863"
-           style="font-size:6.25px;-inkscape-font-specification:'DengXian, Normal';font-family:DengXian;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="252.94073"
-           y="852.73346">Typically \w </tspan></text>
+           y="851.23364">Typically \w </tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text7865"
-         y="891.03339"
+         y="890.63361"
          x="252.94073"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="891.03339"
+           y="890.63361"
            x="252.94073"
            id="tspan7867"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';font-size:7.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">Add decimal number</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Add decimal number</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text7869"
-         y="899.93341"
+         y="899.53363"
          x="252.94073"
-         style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:125%;font-family:DengXian;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DengXian, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="899.93341"
+           y="899.53363"
            x="252.94073"
            id="tspan7871"
            sodipodi:role="line"
-           style="font-size:6.25px;-inkscape-font-specification:'DengXian, Normal';font-family:DengXian;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">Typically \d</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Typically \d</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:DengXian;-inkscape-font-specification:'DengXian, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
