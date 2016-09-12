@@ -1,6 +1,9 @@
 # Regex UCR (Regex You Can Read)
 
-The basic ideas the work starts from are in the [medium blog post](https://medium.com/@savolai/regular-expressions-you-can-read-a-new-visual-syntax-526c3cf45df1#.sk2363nfq ) but prototyping and suggestions of all kinds are encouraged. 
+The basic ideas the work starts from are in the [blog post](https://medium.com/@savolai/regular-expressions-you-can-read-a-new-visual-syntax-526c3cf45df1#.sk2363nfq ) but prototyping and suggestions of all kinds are encouraged. 
+
+- More design details: [How it works](https://medium.com/@savolai/regex-you-can-read-how-it-works-a-syntax-and-app-for-building-regexes-4ea6b3cef4fd#.lrll94pzz )
+- See also: [Plans forward — licensing and architecture first steps](https://medium.com/interaction-reimagined/regex-ucr-plans-forward-architecture-and-licensing-first-steps-8c9c7b5c74cd#.k3mcopmjv)
 
 We want  to keep the discussion constructive and find solutions together. Let's to keep the core vision alive but the idea is to do this together, and distribute decision making as much as makes sense. Let's embrace each other's ideas and be supportive of each other's learning. Yay!
 
