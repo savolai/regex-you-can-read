@@ -1,5 +1,9 @@
 # Regex UCR (Regex You Can Read)
 
+- Source code is in app/
+- Any work that is related but not strictly part of the project is in contrib/
+- Design prototypes are in you guessed it, design prototypes/
+
 The basic ideas the work starts from are in the [blog post](https://medium.com/@savolai/regular-expressions-you-can-read-a-new-visual-syntax-526c3cf45df1#.sk2363nfq ) but prototyping and suggestions of all kinds are encouraged. 
 
 - More design details: [How it works](https://medium.com/@savolai/regex-you-can-read-how-it-works-a-syntax-and-app-for-building-regexes-4ea6b3cef4fd#.lrll94pzz )
